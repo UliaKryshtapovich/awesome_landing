@@ -1,0 +1,66 @@
+.stylish {
+    padding: 57px 0px 38px;
+    background-image: url(../img/bgr-stylish.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+.stylish::after{
+    content: '';
+    background-color:rgba(0, 0, 0, 0.55);
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+}
+.stylish .container{
+    position: relative;
+    z-index: 2;
+}
+.stylish__title {
+    text-transform: uppercase;
+    color: #FFF;
+    text-align: center;
+    font-family: Raleway;
+    font-size: 36px;
+    font-weight: 400;
+}
+.stylish__title:after {
+    content: '';
+    background-color: #FFF;
+    height: 1px;
+    width: 64px;
+    margin: 34px auto 34px;
+    display: block;
+}
+.stylish__subtitle {
+    color: rgba(255, 255, 255, 0.80);
+    text-align: center;
+    font-family: Raleway;
+    font-size: 16px;
+    font-weight: 300;
+    margin-bottom: 57px;
+}
+.stylish__link {
+    display: block;
+    border: white 2px;
+    border-style: solid;
+    text-align: center;
+    max-width: 135px;
+    padding: 11px 0px;
+    color: white;
+    margin: auto;
+}
+.stylish__link:hover {
+    background-color: rgb(260, 255,255,.2);
+    box-shadow:inset 2px 2px 2px 0px rgba(240,255,255,.3);
+    transition: 0.3s;
+}
+.stylish__link:active{
+    border-color: rgba(0, 0, 0, 0.6);
+    background-color:rgba(255, 255, 255, 0.733) ;
+    color:black;
+    box-shadow: inset 2px 2px 4px rgba(0, 0, 0, 0.6);
+}

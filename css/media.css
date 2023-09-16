@@ -1,0 +1,820 @@
+
+@media (max-width: 1150px) {
+    .container {
+            width: 1050px;
+        }
+    .header__nav-item a {
+        font-size: 13px;
+    }
+    .header__logo-axit{
+        font-size: 25px;
+    }
+
+    .modern__left-ax {
+        font-size: 40px;
+    }
+    .modern__left-title {
+        font-size: 30px;
+    }
+    .modern__left-link{
+        font-size: 13px;
+        width: 100px;
+    }
+    .modern__right-content {
+        padding: 22px 35px 35px;
+    }
+    .modern__right-title {
+        margin-bottom: 40px;
+    }
+    
+    .modern__right-button {
+        font-size: 13px;
+    }
+    .modern__right-wrap {
+        width: 330px;
+    }
+    .modern__right-item label {
+        font-size:13px;
+    }
+    .social__nav {
+        width: 560px;
+    }
+    .social__nav-link i {
+        font-size: 25px;
+    }
+    .tabs__left button {
+        width: 90px;
+        height: 90px;
+        font-size: 10px;
+    }
+    .tabs__right-description {
+        margin-right: 45px;
+    }
+    .tabs__right-description h3{
+        font-size: 16px;
+    }   
+    .tabs__right-description p {
+        font-size: 11px;
+    }
+    .tabs__right-text {
+        max-width: 500px;
+    }
+    .tabs_right-image img {
+        width: 260px;
+    }
+    .tabs__right-link {
+        width: 100px;
+        font-size: 11px;
+        padding: 8px;
+    }
+    .awesome {
+        padding-top: 30px;
+    }
+    .awesome .title,  .pricing .title, .customers .title, .stylish__title, .contact-us .title {
+        font-size: 30px;
+    }
+    .awesome .subtitle, .pricing .subtitle, .customers .subtitle, .stylish__subtitle, .contact-us .subtitle, 
+     .pricing__card-subtitle, .pricing__card-text  {
+        font-size: 11px;
+    }
+    .pricing__card-title{
+        font-size: 15px;
+    }
+    .pricing__card-price {
+        font-size: 25px;
+    }   
+    .pricing__card-text {
+        font-size: 12px;
+    }
+    .customers__card-name {
+        font-size: 15px;
+    }
+    .customers__card-review, .awesome__card-text p {
+        font-size: 13px;
+    }
+    .stylish__link {
+        max-width: 100px;
+        padding: 7px 0px;
+        font-size: 13px;
+    }
+    .contact-us__button {
+        width: 130px;
+        padding: 11px 0px;
+        font-size: 12px;
+}
+}
+    @media (max-width: 1060px) 
+    {
+    .container {
+        width: 960px;
+    }
+    .tabs__left {
+        margin-right: 30px;
+    }
+    .customers__card {
+        max-width: 260px;
+    }
+    .pricing__card {
+        max-width: 280px;
+    }
+    label {
+        font-size: 13px;
+    }
+    .social__nav, .social__text {
+        width: 50%;
+    }
+}
+    @media (max-width: 960px) {
+        .container {
+            width: 860px;
+        }
+        .header__logo-axit {
+            font-size: 20px;
+        }
+        .modern__left-ax {
+            font-size: 35px;
+        }
+        .modern__left-title {
+            font-size: 25px;
+        }        
+        .modern__left-link {
+            font-size: 12px;
+            padding: 6px 0px;
+        }
+        .modern__left-subtitle, .modern__right-title {
+            font-size: 14px;
+        }
+        .modern__right-wrap {
+            width: 320px;
+        }
+        .modern__right-title {
+            font-size: 15px;
+        }
+        .modern__right-button {
+            height: 40px;
+        }
+        label,  .header__nav-item a {
+            font-size: 11px;
+        }
+        .modern__right-title {
+            margin-bottom: 30px;
+        }
+        .social__subtitle {
+            font-size: 12px;
+        }
+        .social__title {
+            font-size: 15px;
+        }
+        .awesome .title, .pricing .title, .customers .title, .stylish__title, .contact-us .title {
+            font-size: 25px; 
+        }
+        .awesome__card-title {
+            font-size: 13px;
+        }
+        .customers__card-review, .awesome__card-text p {
+            font-size: 12px;
+        }
+        .pricing__card {
+            max-width: 240px;
+        }
+        .pricing__card-title {
+            font-size: 13px;
+        }
+        .pricing__card-price {
+            font-size: 23px;
+        }
+        .customers__card {
+            max-width: 230px;
+        }
+        .customers__card-img {
+            width: 60px;
+            height: 60px;
+        }
+        .customers__card-name {
+            font-size: 14px;
+            margin-bottom: 6px;
+        }
+        .customers__card-manager {
+            font-size: 13px;
+        }
+        .contact-us__button {
+            width: 110px;
+            padding: 9px 0px;
+            font-size: 10px;
+        } 
+    }
+        @media(max-width: 860px) {
+            .container {
+                width: 800px;
+            }
+            .modern__left-title, .awesome .title, .pricing .title, .customers .title, .stylish__title, .contact-us .title {
+                font-size: 22px;
+            }
+            .modern__left-ax {
+                font-size: 32px;
+            }
+            .modern__left-link {
+                font-size: 10px;
+                width: 85px;
+            }
+            .modern__right-title{
+                margin-bottom: 20px;
+            }
+            .modern__right-content {
+                padding: 22px 35px 28px;
+            }
+            .modern__right-button {
+                font-size: 11px;
+            }
+            .modern__right-item label {
+                font-size: 12px;
+            }
+            .social__nav, .social__text {
+                width: 48%;
+            }
+            .tabs__left button {
+                width: 85px;
+                height: 85px;
+            }
+            .tabs__right-link {
+                width: 85px;
+                font-size: 10px;
+            }
+            .tabs__right-img {
+                width: 310px;
+                height: 250px;
+            }
+            .awesome__card {
+                width: 200px;
+            }
+            .awesome__card-img {
+                width: 65px;
+                height: 66px;
+            }
+            .pricing__card {
+                max-width: 220px;
+            }
+            .pricing__card-title {
+                font-size: 12px;
+            }
+            .pricing__card-price {
+                font-size: 19px;
+                padding: 16px 10px 18px;
+            }
+            .customers__card {
+                max-width: 205px;
+            }
+            .stylish__link {
+                max-width: 95px;
+                font-size: 11px;
+            }
+            .footer__nav-list i {
+                font-size: 19px;
+            }
+            .footer__text-subtitle {
+                font-size: 10px;
+            }
+        }
+
+        @media(max-width:800px){
+            .container {
+                width: 750px;
+            }
+        }
+
+        @media(max-width:768px) {
+            body.lock{
+                overflow:hidden;
+            }
+            .container {
+                width: 668px;
+            }
+            .header{
+               padding: 15px 0px;  
+            }
+            .header__logo-axit {
+                font-size: 17px;
+            }
+            .header::before{
+                position: absolute;
+                z-index: 100;
+            }
+            .header__burger{
+                display: block;
+                position: relative;
+                width: 30px;
+                height: 20px;
+                z-index: 200;
+            }
+            .header__burger span{
+                position: absolute;
+                background-color:rgba(255, 255, 255, 0.70);
+                left: 0;
+                width: 100%;
+                height: 1px;
+                top: 9px;
+            }
+            .header__burger::before,
+            .header__burger::after {
+                content:'';
+                background-color:rgba(255, 255, 255, 0.70);
+                position: absolute;
+                width: 100%;
+                height: 1px;
+                left: 0;
+                transition: all 0.3s;
+            }
+            .header__burger::before{
+                top: 0;
+            }
+            .header__burger::after{
+                bottom:0;
+            }
+            .header__logo-axit {
+                position: relative;
+                z-index: 110 ;
+            }
+            .header__nav {
+                position: fixed;
+                top: -100%;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                background-color: rgba(51, 51, 51, 1); 
+                z-index: 90 ;
+                transition: all 0.4s;
+                overflow: auto;
+            } 
+            .header__nav.active{
+                top:0;
+             }
+            .header__nav-list {
+                display: block;
+                margin-top: 60px
+            }
+            .header__nav-item {
+                margin-bottom: 15px;
+            }
+            .header__nav-item a{
+                font-size: 20px;
+            }
+            .header__nav-item a:hover::after{
+                 width: 0%;
+             }
+             .header__nav-item a:hover {
+                transform: none;
+             }
+             .header__burger.active::before {
+                transform: translateX(10px);
+             }
+             .header__burger.active::after{
+                transform: translateX(-10px);
+             }
+            
+
+            .modern {
+                padding: 120px 0px 60px;
+            }
+            .modern__left-wrap{
+                width: 49%;
+            }
+            .pricing .title:after, .contact-us .title::after, .stylish__title::after, .customers .title:after, .awesome .title::after {
+                width: 60px;
+                margin: 25px auto 25px;
+            }
+            .modern__left-title::after{
+                 width: 60px;
+                 margin: 25px 0px;
+            }
+            .modern__left-title, .awesome .title, .pricing .title, .customers .title, .stylish__title, .contact-us .title {
+                font-size: 20px;
+            }
+            .modern__left-link {
+                font-size: 12px;
+                width: 90px;
+            }
+            .modern__right-wrap {
+                width: 40%;
+            }
+            .modern__right-content {
+                padding: 15px 30px 20px;
+            }
+            .modern__right-item{
+                margin-bottom:15px;
+            }
+            .modern__right-title span{
+                font-size: 18px;
+            }
+
+            .tabs {
+                padding: 65px 0px;
+            }
+             .tabs__right-description h3 {
+                margin-bottom: 20px;
+            }
+            .tabs__right-img {
+                width: 290px;
+            }
+            .tabs__right-description {
+                margin-right: 20px;
+            }
+
+            .tabs__wrapper {
+                display: flex;
+                justify-content: space-between;
+                flex-wrap: wrap;
+            }
+            .tabs__left {
+                display: flex;
+                flex-direction: row;
+                width: 100%;
+                justify-content: flex-start;
+                margin: 0px 0px 35px;
+
+            }
+            .tabs__left button{
+            margin: 0px 30px 0px 0px;
+             }
+             .tabs__left button:last-child{
+                margin-right: 0;
+             }
+             .tabs__right-description p {
+                font-size: 13px;
+            }
+            .tabs__right-link {
+                width: 90px;
+                font-size: 12px;
+            }
+            .pricing__wrapper {
+                display: flex;
+                flex-direction: column;
+                align-items:center;
+
+            }
+            .pricing__card {
+                max-width: 300px;
+                margin-bottom: 50px;
+            }
+            .pricing {
+                padding: 70px 0;
+            }
+            .customers__wrapper {
+                display: flex;
+                flex-wrap: wrap;
+                flex-direction: column;
+                align-items:center;
+            }
+            .customers__card {
+                max-width: 320px;
+                margin-bottom: 55px;
+            }
+            .customers__card:last-child{
+                margin-bottom: 0;
+            }
+            .customers__card-review{
+                padding: 23px 23px;
+                font-size: 14px;
+                margin-bottom: 40px;
+            }
+            .customers__card-img {
+                width: 80px;
+                height: 80px;
+            }
+            .customers__card-name {
+                font-size: 15px;
+                margin-bottom: 10px;
+            }
+}
+            @media(max-width: 671px){
+                .container {
+                    width: 620px;
+                }
+                .modern__left-ax {
+                    font-size: 29px;
+                    text-align: center;
+                    margin-bottom: 30px;
+                }
+                .modern__wraper{ 
+                    display: flex;
+                    flex-direction: column;
+                    align-items: center;
+                 }
+                 .modern__left-wrap {
+                    width: 100%;
+                    margin-bottom: 30px;
+                }
+                .modern__right-wrap{
+                    width: 60%;
+                }
+                .modern__right-title {
+                    font-size: 12px;
+                }
+                .modern__right-title span {
+                    font-size: 14px;
+                }
+                .modern__right-content {
+                    padding: 40px 30px 40px;
+                }
+                .modern__right-wrap {
+                    width: 50%;
+                }
+                .awesome__wrapper {
+                    display: flex;
+                    flex-wrap: wrap;
+                    flex-direction: column;
+                    align-items: center;
+                }
+                .modern__left-subtitle, .modern__left-title {
+                    text-align: center;
+                    max-width:  100%;
+                }
+                .modern__left-link,.modern__left-title::after  {
+                    margin: 30px auto;
+                }
+                .awesome__card {
+                    width:  300px; 
+                    margin-bottom: 50px;
+                }
+                .awesome__card-text p {
+                    font-size: 13px;
+                }
+                .awesome__card-title {
+                    font-size: 15px;
+                }
+                .pricing__wrapper {
+                    display: flex;
+                    flex-direction: column;
+                    align-items: center;
+                }
+                .pricing__card{
+                    width: 80%;
+                    margin: 0px 0px 50px 0px;
+                }
+                .social__wrapper{
+                    display: flex;
+                    flex-direction: column;
+                    align-items: center;
+                    text-align: center;
+                }
+                .social__nav {
+                    width: 80%;
+                }
+                .social__text {
+                    width: 100%;
+                    margin: 0px 0px 20px 0px;
+                }
+                .social__subtitle {
+                    font-size: 13px;
+                }
+                .social__nav-link i {
+                    font-size: 25px;
+                   
+                }
+                .stylish__subtitle, .awesome__card-text p {
+                    font-size: 14px;
+                }
+                .awesome .subtitle, .pricing .subtitle, .customers .subtitle, .stylish__subtitle, .contact-us .subtitle, .pricing__card-subtitle, .pricing__card-text {
+                    font-size: 13px;
+                }
+                .modern__left-title, .awesome .title, .pricing .title, .customers .title, .stylish__title, .contact-us .title {
+                    font-size: 23px;
+                }
+                
+            }
+
+                @media (max-width: 621px){
+                    .container {
+                        width: 560px;
+                    }
+                }
+                @media (max-width: 560px){
+                    .container {
+                        width: 500px;
+                    }
+                    
+                }
+
+                @media (max-width: 500px){
+                    .container {
+                        width: 425px;
+                    }
+                    .modern__right-wrap {
+                        width: 70%;
+                    }
+                    .tabs__right-img {
+                        display: none;
+                    }
+                    .tabs {
+                        padding: 50px 0px;
+                    }
+                    .tabs__left {
+                        justify-content: center;
+                    }
+                    .tabs__left button {
+                        width: 75px;
+                        height: 75px;
+                    }
+                    .tabs__right-description {
+                        text-align: center;   
+                        width: 100%;
+                    }
+                    .tabs__right-text {
+                        margin: 0px auto 30px;
+                    }
+                    .tabs__right-link {
+                        margin: 0px auto;
+                    }
+                    .pricing__card {
+                        width: 65%;
+                    }
+                    .modern__left-title, .awesome .title, .pricing .title, .customers .title, .stylish__title, .contact-us .title {
+                        font-size: 20px;
+                    }
+                }
+
+            @media (max-width: 425px) {
+                .container{
+                    width: 390px;
+                }
+                .modern {
+                    padding: 90px 0px 70px;
+                }
+                .modern__wraper{ 
+                    display: flex;
+                    flex-direction: column;
+                    align-items: center;
+                 }
+                .modern__left-wrap {
+                    width: 100%
+                }
+                .modern__left-wrap{ 
+                    margin-bottom: 40px;
+                } 
+                .modern__right-wrap{
+                    width: 75%
+                }
+                .modern__left-subtitle, .modern__left-title {
+                    text-align: center;
+                    max-width:  100%;
+                }
+                .modern__left-link,.modern__left-title::after  {
+                    margin: 30px auto;
+                }
+                .modern__left-ax {
+                    font-size: 27px;
+                    text-align: center;
+                    margin-bottom: 30px;
+                }
+                .modern__right-content {
+                    padding: 20px 40px 30px;
+                }
+                .social__wrapper{
+                    display: flex;
+                    flex-direction: column;
+                }
+                .social__nav {
+                    width: 100%;
+                   
+                }
+                .social__text{
+                    width: 100%;
+                    margin-bottom: 20px;
+                }
+                .social__nav-link i {
+                    font-size: 20px;
+                }
+                .awesome {
+                    background-color:#F8EFEF;
+                }
+                .awesome__wrapper {
+                    display: flex;
+                    flex-direction: column;
+                    align-items: center;
+                }
+                .awesome__card {
+                    margin-bottom: 50px;
+                }
+                .awesome__card:last-child{
+                    margin-bottom: 0;
+                }
+                .pricing__wrapper {
+                    display: flex;
+                    flex-direction: column;
+                    align-items: center;
+                }
+                .pricing__card{
+                    max-width: 75%;
+                    margin-bottom: 50px;
+                }
+                .pricing__card:last-child{
+                    margin-bottom: 0px;
+                }
+                .customers__card-img {
+                    width: 70px;
+                    height: 70px;
+                }
+                .customers__card {
+                    max-width: 75%;
+                    margin-bottom: 65px;
+                }
+                .customers__card:last-child{
+                    margin-bottom: 0px;
+                }
+                .customers__card-review{
+                font-size: 13px;
+                }
+                .awesome .subtitle, .pricing .subtitle, .customers .subtitle, .contact-us .subtitle, .pricing__card-subtitle, .pricing__card-text{
+                    font-size: 12px;
+                }
+                .stylish__subtitle{
+                    font-size: 13px;
+                    margin-bottom: 40px
+                }
+                .contact-us__content {
+                    display: flex;
+                    flex-direction: column;
+                    align-items: center;
+                }
+                .contact-us__left{
+                    width: 80%;
+                    margin-bottom: 50px;
+                }
+                .contact-us__right{
+                    width: 80%;
+                }
+                .footer{
+                    padding: 20px 0px 15px;
+                }
+                .footer__nav-list {
+                    width: 270px;
+                }
+                .footer__nav-list i {
+                    font-size: 17px;
+                }
+                .footer__text-subtitle {
+                    font-size: 8px;
+                }   
+            }
+            @media(max-width:390px) {
+                .container {
+                    width: 351px ;
+                }
+                .tabs__left button {
+                    width: 65px;
+                    height: 65px;
+                }
+                .tabs__right-description h3 {
+                    font-size: 13px;
+                }
+                .tabs__right-description p {
+                    font-size: 12px;
+                }
+            }
+            @media(max-width:350px) {
+                .container{
+                    width: 300px;
+                }
+                .modern__right-wrap {
+                    width: 90%;
+                }
+                .modern__right-title, .tabs__right-description h3 {
+                    font-size: 13px;
+                }
+                .modern__right-button {
+                    height: 30px;
+                }
+                .tabs__left button {
+                    width: 65px;
+                    height: 65px;
+                }
+                .tabs__right-description p {
+                    font-size: 11px;
+                }
+                .modern__left-title, .awesome .title, .pricing .title, .customers .title, .stylish__title, .contact-us .title {
+                    font-size: 16px;
+                }
+                .awesome .subtitle, .pricing .subtitle, .customers .subtitle, .contact-us .subtitle, .pricing__card-subtitle {
+                    font-size: 11px;
+                }
+                .awesome__card{
+                    margin: 0px 0px 50px ;
+                }
+                .awesome__card-text {
+                    font-size: 11px;
+                }
+                .pricing__card-text{
+                    padding: 7px 10px 7px;
+                }
+                .footer__nav-list {
+                    width: 230px;
+                }
+                .footer {
+                    padding: 20px 0px 15px;
+                }
+                .footer__nav-list i {
+                    font-size: 15px;
+                }  
+            }
+
+
+                    
